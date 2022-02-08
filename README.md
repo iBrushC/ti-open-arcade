@@ -8,5 +8,5 @@ TI Open Arcade is a collection of games written for the TI-84+ CE in C built on 
 
 ## Current Game Catalog
 *Reminder! These are not actual clones of the games they're named after, just heavily inspired by them. If you want a one-to-one emulator, use [TI-Boy CE](https://calc84maniac.github.io/tiboyce/), a proper gameboy emulator!*
-- **Breakout** (BRKOUTA)
-- **Atari 2600 Breakout** (BRKOUTB)
+- **Breakout** (ti84_breakout_a)
+- **Atari 2600 Breakout** (ti84_breakout_b)
