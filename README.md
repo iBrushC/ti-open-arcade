@@ -1,4 +1,5 @@
 # TI Open Arcade
+![Logo](https://raw.githubusercontent.com/iBrushC/ti-open-arcade/main/media/Logo@4x.png)
 TI Open Arcade is a collection of games written for the TI-84+ CE in C built on the [CE C Toolchain](https://github.com/CE-Programming/toolchain). These are not professional, however they can be used as extra examples of the libraries in real use, or can just be downloaded and played for fun. Included in each project is the full source code of each game (ready to be built), along with the prebuilt ``.8xp`` file which can be sent directly to calculators.
 
 ## Requirements
