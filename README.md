@@ -15,3 +15,6 @@ TI Open Arcade is a collection of games written for the TI-84+ CE in C built on 
 - **Atari 2600 Breakout** (ti84_breakout_b)
 
 ![Screenshot of Breakout version B](https://raw.githubusercontent.com/iBrushC/ti-open-arcade/main/ti84_breakout_b/media/screenshot1.png)
+- **Conway's Game of Life** (ti84_conway)
+
+![Screenshot of Conway's Game of Life](https://raw.githubusercontent.com/iBrushC/ti-open-arcade/main/ti84_conway/media/screenshot1.png)
